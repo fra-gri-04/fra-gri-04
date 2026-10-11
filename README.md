@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🎓 Currently studying Computer Science in Italy
 - 🚀 I’m working on a library of useful algorithms that may come in handy during my degree.
+- 👀 Personal account: [@grillofrancesco](https://github.com/grillofrancesco)
 <!--
 **fra-gri-04/fra-gri-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
